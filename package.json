@@ -1,13 +1,13 @@
 {
-  "name": "react-native-swipeable",
-  "version": "0.6.0",
+  "name": "react-native-swipeable-patched",
+  "version": "0.6.1",
   "description": "A powerful React Native swipe component",
   "main": "lib/index.js",
   "scripts": {
     "build": "make build",
     "lint": "make lint"
   },
-  "author": "Jeff Hanson",
+  "author": "Vin Armani",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.18.0",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jshanson7/react-native-swipeable.git"
+    "url": "git+https://github.com/vinarmani/react-native-swipeable-patched.git"
   },
   "keywords": [
     "react",
