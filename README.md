@@ -1,4 +1,4 @@
-# React Native Swipeable [![NPM version][npm-image]][npm-url]
+# React Native Swipeable (Patched) [![NPM version][npm-image]][npm-url]
 
 A powerful React Native swipe component.  Supports both iOS and Android.
 
